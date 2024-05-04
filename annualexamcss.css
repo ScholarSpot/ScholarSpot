@@ -1,0 +1,81 @@
+
+.htwo{
+    font-size:20px;
+    font-weight: 600px;
+    font-family: 'verdana';
+    color: rgb(255, 255, 255)
+}
+.hood{
+    width: 540px;;
+    margin-left: 50px;
+    margin-top: 10px;
+    background-color:rgba(100, 100, 100, 0.781);
+    height: 50px;
+    padding-right: 130px;
+    padding-left: 30px;
+    padding-top: 47px;
+    display: inline-block;
+    padding-bottom: 750px;
+    overflow: hidden;
+}
+.pptwo{
+    font-size:17px;
+    font-weight: 600px;
+    font-family: 'verdana';
+    color: rgb(255, 255, 255)
+}
+.hhtwo{
+    font-size:18px;
+    font-weight: 600px;
+    font-family: 'verdana';
+    color: rgb(255, 255, 255);
+    margin-bottom: 40px;
+}
+.biology{
+    color: rgb(255,255,255);
+    font-family: verdana;
+    font-size: 15px;
+    display: block;
+    margin-bottom: 0px;
+    margin-top:10px;
+}
+.rdiv{
+    width: 440px;
+    margin-left: 50px;
+    margin-top: 11px;
+    background-color:rgba(100, 100, 100, 0.781);
+    height: 50px;
+    padding-right: 0px;
+    padding-left: 30px;
+    padding-top: 0px;
+    display: inline-block;
+    padding-bottom: 520px;
+    vertical-align: top;
+}
+.img9{
+    width: 630px;
+    display: inline-block;
+    vertical-align: top;
+    max-width:100%;height:auto;
+    margin-left: 45px;
+}
+.links-2{
+    margin-top: 30px;
+    width: 220px;
+}
+.header{
+    font-size:20px;
+    font-weight: 600px;
+    font-family: 'verdana';
+    color: rgb(255, 255, 255);
+    margin-left: 120px;
+}
+.linkstwo{
+    color: rgb(255, 255, 255);
+    font-family: verdana;
+    font-size: 15px;
+    display: block;
+    margin-bottom: 0px;
+    margin-top:10px;
+    margin-left: 80px;
+}

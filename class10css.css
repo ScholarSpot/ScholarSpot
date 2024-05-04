@@ -1,0 +1,450 @@
+.headp{
+    width:540px;
+    margin-left: 50px;
+    margin-top: 30px;
+    background-color:rgb(255, 255, 255);
+    height: 50px;
+    padding-right: 130px;
+    padding-left: 30px;
+    padding-top: 25px;
+    display: inline-block;
+    padding-bottom: 1450px
+}
+.class9{
+    font-size: 17px;
+    font-family: verdana;
+    color: rgba(0, 0, 0, 0.699)
+}
+.class92{
+    font-size:20px;
+    font-weight: 600px;
+    font-family: 'verdana';
+    color: rgba(0, 0, 0, 0.623)
+}
+.class93{
+    font-size: 17px;
+    font-family: verdana;
+    color: rgba(0, 0, 0, 0.616)
+}
+.class94{
+    font-size: 17px;
+    font-family: verdana;
+    margin-top: 26px;
+    color: rgba(0, 0, 0, 0.63)
+}
+.menu{
+    height: 50px;
+    background-color: rgb(116, 115, 115);
+}
+body{
+    background-color:rgb(228, 228, 228)
+}
+.banner{
+    width: 390px;
+    margin-left: 450px;
+    height: 160px;
+}
+.class8{
+    display: inline-block;
+    font-size: 16px;
+    color: white;
+    font-family: verdana;
+    margin-left: 20px;
+    text-align: center;
+    margin-top: 12px;
+}
+.mclass9{
+    display: inline-block;
+    font-size: 16px;
+    color: white;
+    font-family: verdana;
+    margin-left: 40px;
+    text-align: center;
+    margin-top: 12px;
+}
+.mclass9 :hover{
+    color: black;
+}
+.class10{
+    display: inline-block;
+    font-size: 16px;
+    color: white;
+    font-family: verdana;
+    margin-left: 50px;
+    text-align: center;
+    margin-top: 12px;
+}
+.classPlusOne{
+    display: inline-block;
+    font-size: 16px;
+    color: white;
+    font-family: verdana;
+    margin-left: 60px;
+    text-align: center;
+    margin-top: 12px;
+}
+.classPlusTwo{
+    display: inline-block;
+    font-size: 16px;
+    color: white;
+    font-family: verdana;
+    margin-left: 70px;
+    text-align: center;
+    margin-top: 12px;
+}
+.classes{
+    margin-left: 350px;
+}
+.partone{
+    font-family: verdana;
+    font-weight: 800px;
+    font-size: 24px;
+    color: rgb(99, 97, 97);
+    text-decoration: underline;
+}
+.maths{
+    color: rgb(116, 116, 116);
+    font-family: verdana;
+    font-size: 15px;
+    display:block;
+    margin-bottom: 10px;
+}
+.physics{
+    color: rgb(116, 116, 116);
+    font-family: verdana;
+    font-size: 15px;
+    display:block;
+    margin-bottom: 10px;
+}
+.biology{
+    color: rgb(116, 116, 116);
+    font-family: verdana;
+    font-size: 15px;
+    display: block;
+    margin-bottom: 10px;
+}
+.chemistry{
+    color: rgb(116, 116, 116);
+    font-family: verdana;
+    font-size: 15px;
+    display: block;
+    margin-bottom: 10px;
+}
+.socialscience{
+    color: rgb(116, 116, 116);
+    font-family: verdana;
+    font-size: 15px;
+    display: block;
+    margin-bottom: 10px;
+}
+.english{
+    color: rgb(116, 116, 116);
+    font-family: verdana;
+    font-size: 15px;
+    display: block;
+    margin-bottom: 10px;
+}
+.hindi{
+    color: rgb(116, 116, 116);
+    font-family: verdana;
+    font-size: 15px;
+    display: block;
+    margin-bottom: 10px;
+}
+.malayalam{
+    color: rgb(116, 116, 116);
+    font-family: verdana;
+    font-size: 15px;
+    display: block;
+    margin-bottom: 10px;
+}
+.rdiv{
+    background-color:white;
+    width:453px;
+    display: inline-block;
+    height: 1000px;
+    overflow: hidden;
+    margin-left: 60px;
+    margin-top: 29px;
+    vertical-align: top;
+}
+.nineimg{
+    width: 430px;
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+body{
+    margin: 0;
+}
+.class95{
+    font-size: 16px;
+    font-family: verdana;
+    margin-top: 26px;
+    color: rgba(0, 0, 0, 0.63)
+}
+.parttwo{
+    font-family: verdana;
+    font-weight: 800px;
+    font-size: 24px;
+    color: rgb(99, 97, 97);
+    text-decoration: underline;
+}
+.mathst{
+    color: rgb(116, 116, 116);
+    font-family: verdana;
+    font-size: 15px;
+    display:block;
+    margin-bottom: 10px;
+}
+.finals{
+    font-size: 17px;
+    font-family: verdana;
+    color: rgba(0, 0, 0, 0.616)
+}
+.download{
+    margin-left: 30px;
+}
+.downloadt{
+    margin-left: 30px;
+}
+.final{
+    margin-top: 30px;
+}
+.end{
+    background-color: rgb(116, 116, 116);
+    width:1349px;
+    height: 50px;
+    margin-top: 70px;
+    padding-top: 6px;
+    padding-bottom: 6;
+}
+.copy{
+    font-size: 18px;
+    font-family: verdana;
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+.papers{
+    font-size: 17px;
+    font-family: verdana;
+    color:rgb(94, 94, 94);
+    margin-left: 150px;
+    margin-top: 150px;
+}
+.papers{
+    font-size: 17px;
+    font-family: verdana;
+    color:rgb(94, 94, 94);
+    margin-left: 110px;
+    margin-top: 150px;
+    margin-bottom: 30px;
+}
+.paperstwo{
+    font-size: 17px;
+    font-family: verdana;
+    color:rgb(94, 94, 94);
+    margin-left: 110px;
+    margin-top: 150px;
+}
+.papersthree{
+    font-size: 17px;
+    font-family: verdana;
+    color:rgb(94, 94, 94);
+    margin-left: 110px;
+    margin-top: 150px;
+}
+.qpaperh{
+    font-size:25px;
+    font-weight: 600px;
+    font-family: 'verdana';
+    color: rgba(0, 0, 0, 0.623);
+    margin-left: 70px;
+    text-decoration: underline;
+}
+.links-2{
+    margin-top: 30px;
+}
+@media (max-width: 600px){
+    .menu{
+      width: 340;
+      height: 70px;
+}
+}
+@media (max-width: 600px){
+    .banner{
+        width: 240;
+      margin-left: 0;
+      height: 110px;
+}
+}
+@media (max-width: 600px){
+    .headp{
+        width: 330;
+      margin-left: 0;
+      padding-bottom: 1780px;
+      padding-right: 0px;
+      padding-left: 10;
+      display: inline-block;
+}
+}
+@media (max-width: 600px){
+    .rdiv{
+    background-color:white;
+    width: 340;
+    display: inline-block;
+    height: 970px;
+    overflow: hidden;
+    margin-left: 0px;
+    margin-top: 0px;
+    vertical-align: top;
+}
+}
+@media (max-width: 600px){
+    .classes{
+      width: 340px;
+      margin-left: 4;
+      height: 70px;
+}
+}
+@media (max-width: 600px){
+    .class9{
+        font-size: 16px;
+       font-family: verdana;
+      color: rgba(0, 0, 0, 0.699);
+       width: 336;
+}
+}
+@media (max-width: 600px){
+    .class92{
+        font-size: 20px;
+       font-family: verdana;
+      color: rgba(0, 0, 0, 0.699);
+       width: 337;
+       font-weight: 600px;
+}
+}
+@media (max-width: 600px){
+    .class93{
+        font-size: 16px;
+       font-family: verdana;
+      color: rgba(0, 0, 0, 0.699);
+       width: 336;
+}
+}
+@media (max-width: 600px){
+    .class94{
+        font-size: 16px;
+       font-family: verdana;
+      color: rgba(0, 0, 0, 0.699);
+       width: 338;
+}
+}
+@media (max-width: 600px){
+    .class95{
+        font-size: 18px;
+       font-family: verdana;
+      color: rgba(0, 0, 0, 0.699);
+       width: 340;
+}
+}
+@media (max-width: 600px){
+    .final{
+        font-size: 18px;
+       font-family: verdana;
+      color: rgba(0, 0, 0, 0.699);
+       width: 334hv;
+}
+}
+@media (max-width: 600px){
+    .nineimg{
+     width: 340px;
+     margin-left: 0;
+}
+}
+@media (max-width: 600px){
+    .qpaperh{
+     margin-left: 17px;
+}
+}
+@media (max-width: 600px){
+    .links{
+     margin-left: 50px;
+     width: 290px;
+}
+}
+@media (max-width: 600px){
+    .links-2{
+     margin-left: 50px;
+     width: 290px;
+}
+}
+@media (max-width: 600px){
+    .papers{
+     margin-left: 0px;
+     display: block;
+     margin-top: 10px;
+     margin-bottom: 0;
+}
+}
+@media (max-width: 600px){
+    .paperstwo{
+     margin-left: 0px;
+     display: block;
+     margin-top:0px;
+}
+}
+@media (max-width: 600px){
+    .papersthree{
+     margin-left: 0px;
+}
+}
+@media (max-width: 600px){
+    .end{
+        width: 340;
+        margin-top: 40px;
+}
+}
+@media (max-width: 600px){
+    .copy{
+     margin-left: 20px;
+     display: inline-block;
+     margin-top: 0;
+
+}
+}
+@media (max-width: 600px){
+    body{
+     margin-right:0;
+     padding-right: 0;
+
+}
+}
+@media (max-width: 600px){
+    .class10{
+     margin-left:40;
+     padding-right: 0;
+
+}
+}
+@media (max-width: 600px){
+    .classPlusOne{
+     margin-left: 60;
+     padding-right: 0;
+
+}
+}
+@media (max-width: 600px){
+    .classPlusTwo{
+     margin-left: 40;
+     padding-right: 0;
+
+}
+}
+@media (max-width: 600px){
+    .wrapper{
+     width: 240;
+
+}
+}
