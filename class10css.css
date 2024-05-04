@@ -275,14 +275,14 @@ body{
 }
 @media (max-width: 600px){
     .banner{
-        width: 240;
+        width: 100%;
       margin-left: 0;
       height: 110px;
 }
 }
 @media (max-width: 600px){
     .headp{
-        width: 330;
+        width: 100%;
       margin-left: 0;
       padding-bottom: 1780px;
       padding-right: 0px;
@@ -293,7 +293,7 @@ body{
 @media (max-width: 600px){
     .rdiv{
     background-color:white;
-    width: 340;
+    width: 100%;
     display: inline-block;
     height: 970px;
     overflow: hidden;
