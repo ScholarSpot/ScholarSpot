@@ -275,25 +275,30 @@ body{
 }
 @media (max-width: 600px){
     .banner{
-        width: 100%;
-      margin-left: 0;
-      height: 110px;
+      width: 100%;
+}
+}
+@media (max-width: 600px){
+    body{
+      padding: 0;
+      margin: 0;
 }
 }
 @media (max-width: 600px){
     .headp{
-        width: 100%;
+      width: 355;
       margin-left: 0;
-      padding-bottom: 1780px;
-      padding-right: 0px;
-      padding-left: 10;
+      padding-bottom: 1350px;
+      padding-left: 4;
+      padding-right: 0;
       display: inline-block;
+     
 }
 }
 @media (max-width: 600px){
     .rdiv{
     background-color:white;
-    width: 100%;
+    width: 358;
     display: inline-block;
     height: 970px;
     overflow: hidden;
@@ -303,9 +308,16 @@ body{
 }
 }
 @media (max-width: 600px){
+    .banner{
+      width: 240;
+      margin-left: 50;
+      height: 110px;
+}
+}
+@media (max-width: 600px){
     .classes{
       width: 340px;
-      margin-left: 4;
+      margin-left: 20;
       height: 70px;
 }
 }
@@ -314,7 +326,7 @@ body{
         font-size: 16px;
        font-family: verdana;
       color: rgba(0, 0, 0, 0.699);
-       width: 336;
+       width: 340;
 }
 }
 @media (max-width: 600px){
@@ -322,7 +334,7 @@ body{
         font-size: 20px;
        font-family: verdana;
       color: rgba(0, 0, 0, 0.699);
-       width: 337;
+       width: 340;
        font-weight: 600px;
 }
 }
@@ -331,7 +343,7 @@ body{
         font-size: 16px;
        font-family: verdana;
       color: rgba(0, 0, 0, 0.699);
-       width: 336;
+       width: 340;
 }
 }
 @media (max-width: 600px){
@@ -339,7 +351,7 @@ body{
         font-size: 16px;
        font-family: verdana;
       color: rgba(0, 0, 0, 0.699);
-       width: 338;
+       width: 340;
 }
 }
 @media (max-width: 600px){
@@ -347,7 +359,7 @@ body{
         font-size: 18px;
        font-family: verdana;
       color: rgba(0, 0, 0, 0.699);
-       width: 340;
+       width: 100%;
 }
 }
 @media (max-width: 600px){
@@ -355,12 +367,12 @@ body{
         font-size: 18px;
        font-family: verdana;
       color: rgba(0, 0, 0, 0.699);
-       width: 334hv;
+       width: 337;
 }
 }
 @media (max-width: 600px){
     .nineimg{
-     width: 340px;
+     width: 440px;
      margin-left: 0;
 }
 }
@@ -403,7 +415,7 @@ body{
 }
 @media (max-width: 600px){
     .end{
-        width: 340;
+        width: 100%;
         margin-top: 40px;
 }
 }
